@@ -20,6 +20,8 @@ namespace KTPM
     private void btTru_Click(object Sender, EventArgs e)
     {
 	int a, b, ketqua;
-
+	if(a.text != ketqua.toString()){
+	    Cout <<"XIN CHÀO";
+	}	
     }
 }
