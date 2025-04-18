@@ -17,4 +17,9 @@ namespace KTPM
             InitializeComponent();
         }
     }
+    private void btTru_Click(object Sender, EventArgs e)
+    {
+	int a, b, ketqua;
+
+    }
 }
